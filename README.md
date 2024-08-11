@@ -1,7 +1,7 @@
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">Hallo Bang 👋, I'm fatah</h1>
 <h3 align="center">Anak nya Bang Jack | Salam Kenal</h3>
-<p align="center"> <img src="https://telegra.ph/file/b8a548ec98e78d758ff49.gif" alt="scar1109" /> </p>
+<p align="center"> <img src="https://telegra.ph/file/83a597dcaa6ee705d6353.gif" alt="scar1109" /> </p>
 
 <table align="center">
 <tr border="none">
