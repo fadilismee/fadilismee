@@ -13,9 +13,9 @@
 
 - 💬 Tanyakn Kepada Saya **Apapun**
 
-- 📫 Hub Saya Di **ftahmirz.a06@gmail.com** **instagram.com/fadilismee**
+- 📫 Hub Saya Di **ftahmirz.a06@gmail.com** **https://instagram.com/fadilismee**
   
-- ⚡ Fun fact **Kamu Bisa Panggil Fadil*
+- ⚡ Fun fact **Kamu Bisa Panggil Fadil**
 
 </td>
 <td width="50%" align="center">
