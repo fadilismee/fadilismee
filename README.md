@@ -1,6 +1,6 @@
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">Hallo Bang 👋, I'm fatah</h1>
-<h3 align="center">Mamusia Indonesia Yang Ingin MasuknSyurga | Pekerja Kemarin Sore</h3>
+<h3 align="center">Mamusia Indonesia Yang Mau Masuk Syurga | Pekerja Kemarin Sore</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=scar1109&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /> </p>
 
 <table align="center">
@@ -9,11 +9,11 @@
   
 - 🌱 Kebanggaan Saya Sampai Sekarang **Mampu Melakukan C+V**
 
-- 🧑‍🎓 I’m an Undergraduate at **SMA HT**
+- 🧑‍🎓 Aing Lulusan **SMA HT**
 
 - 💬 Tanyakn Kepada Saya **Apapun**
 
-- 📫 Hub Saya Di **ftahmirz.a06@gmail.com**
+- 📫 Hub Saya Di **ftahmirz.a06@gmail.com** **instagram.com/fadilismee**
   
 - ⚡ Fun fact **Kamu Bisa Panggil Fadil*
 
